@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Second-year student in **Web Application Development (DAW)**
 
-- 🌱 I'm currently learning **React & Django**
+- 🌱 I'm currently learning **React**
   
 - 🚀 Interested in **full-stack & frontend roles**
 
